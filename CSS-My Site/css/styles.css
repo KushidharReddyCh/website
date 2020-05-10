@@ -1,0 +1,114 @@
+div{
+
+
+}
+body{
+background-color: #AF8BAF;
+
+  margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif
+}
+h1{
+  color: #C70039;s
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+
+}
+h2{
+  font-weight: normal;
+  color: #C70039;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+h3{
+  color: #FC7E2F;
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+.middle-container{
+
+margin: 100px 0;
+
+}
+a{
+  font-family: 'Montserrat',sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.bottom-container{
+  padding: 50px 0 20px;
+background-color: #00005C;
+}
+.pro{
+  text-decoration: underline;
+}
+.top-container{
+
+position: relative;
+padding-top: 100px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+.profilec{
+  height: 10%;
+  width: 25%;
+  border-radius: 100%;
+}
+hr{
+  border: dotted #363636 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+p{
+  line-height: 2;
+}
+.chess{
+border-radius: 100%;
+width: 25%;
+
+float: right;
+margin-top: 30px;
+margin-left: 30px;
+}
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+}
+.btn{
+  background-color: #FF5200;
+  padding: 15px;
+  color: #EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  padding: 20px 0;
+}
+.code-img{
+
+  margin-top: 25px;
+  width: 25%;
+
+  float: left;
+  margin-right: 30px;
+}
